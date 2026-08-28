@@ -231,11 +231,11 @@ I'm preparing for **graduate study in Computer Science / Artificial Intelligence
 
 <div align="center">
 
-📧 **Email:** `shimu.cse.neub@gmail.com`
+📧 **Email:** `shimuofficial.shimu@gmail.com`
 
 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN)
 
-🆔 **ORCID:** [My ORCID](YOUR_ORCID)
+🆔 **ORCID:** [My ORCID](https://orcid.org/0009-0006-2841-2172)
 
 📚 **Google Scholar:** [My Research](YOUR_GOOGLE_SCHOLAR)
 
