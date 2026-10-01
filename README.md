@@ -231,7 +231,7 @@ I'm preparing for **graduate study in Computer Science / Artificial Intelligence
 
 <div align="center">
 
-📧 **Email:** `shimuofficial.shimu@gmail.com`
+📧 **Email:** `0562310005101002@neub.edu.bd`
 
 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN)
 
