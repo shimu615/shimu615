@@ -239,7 +239,7 @@ I'm preparing for **graduate study in Computer Science / Artificial Intelligence
 
 📚 **Google Scholar:** [My Research](YOUR_GOOGLE_SCHOLAR)
 
-🌐 **Portfolio:** [Visit my portfolio](YOUR_PORTFOLIO)
+🌐 **Portfolio:** [Visit my portfolio](https://shimu615.github.io/shimu615.github.io-/)
 
 </div>
 
